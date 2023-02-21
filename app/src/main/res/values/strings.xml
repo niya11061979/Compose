@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Compose</string>
+    <string name="last_known_location">Last known location:</string>
+    <string name="repeat">Repeat</string>
+    <string name="success">Connection successful</string>
+    <string name="retry">Retry</string>
+    <string name="wait">Секунду, получаю данные…</string>
+</resources>
